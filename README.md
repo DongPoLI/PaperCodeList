@@ -1,2 +1,5 @@
 # PaperCodeList
-1. 记录需要看的代码和论文，防止忘记
+## 1. 检测相关项目代码学习
+- [ ] [GFocal](https://github.com/implus/GFocal)
+- [ ] [nanodet](https://github.com/RangiLyu/nanodet)
+
