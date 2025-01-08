@@ -11,4 +11,6 @@
 1. [ultralytics YOLO](https://github.com/ultralytics/ultralytics) ⌛
 2. [GFocal](https://github.com/implus/GFocal)  ⚪
 3. [nanodet](https://github.com/RangiLyu/nanodet) ⚪
+4. [DEIM](https://github.com/ShihuaHuang95/DEIM)  [D-FINE](https://github.com/Peterande/D-FINE) ⌛
+   
 
